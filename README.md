@@ -1,3 +1,2 @@
 # Majorana
-
-# simulacije za projekt  E
+simulacije za projekt  E
